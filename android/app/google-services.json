@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515162342799",
+    "project_id": "expensave-6afb2",
+    "storage_bucket": "expensave-6afb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515162342799:android:8b1c71f9b9853fde00b7fa",
+        "android_client_info": {
+          "package_name": "com.example.expen_save"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515162342799-5h5mrq24v65e98oe1aaoit03m2kf9qi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmBZYBL-GgCsjDpNJgqUseucyxz6ZoBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515162342799-5h5mrq24v65e98oe1aaoit03m2kf9qi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
